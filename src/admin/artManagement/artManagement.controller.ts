@@ -26,7 +26,6 @@ AWS.config.update({
 export class ArtManagementController {
     constructor(
         private artManagementService: ArtManagementService,
-        private distributionService: DistributionService,
         ) {}
 
 

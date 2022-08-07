@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>App</title>
+</head>
+
+<body>
+    {{ message }}
+    <form method="post" action="">
+        <p><label>money : <input type="text" name="money"></label></p>
+        <p><input type="submit" value="Submit"></p>
+        {{result}}
+        {{#result}}
+        {{key}} : {{value}} <br>
+        {{/result}}
+    </form>
+</body>
+
+</html>

@@ -149,6 +149,9 @@ export class DistributionService {
             return acc;
         }, new Object);
 
+        // console.log(result.name2);
+        // console.log(result);
+
         return result;
     }
 }
