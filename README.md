@@ -138,3 +138,6 @@ vox파일 건축 0.3회
 ### API 문서
 https://satin-loganberry-da5.notion.site/2c5be6e066b841b5b166b2d1de1a1a7b?v=9a55442702294771a31fcf28329cae3c
 
+
+### 포크 관계 끊기
+https://allonsyit.tistory.com/62
